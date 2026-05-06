@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kaviyan-004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+“Your limits are only in your mind. Work until your results speak.” 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kaviyan-004&limit=5&theme=dark&combine_all_yearly_contributions=true)
