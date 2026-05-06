@@ -16,7 +16,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=kaviyan-004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-“Your limits are only in your mind. Work until your results speak.” 
+### ✍️ Quote I Live By
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=FF6EC7&background=1A1A2E00&center=true&vCenter=true&width=900&height=80&lines="Your+limits+are+only+in+your+mind.+Work+until+your+results+speak.")
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kaviyan-004&limit=5&theme=dark&combine_all_yearly_contributions=true)
